@@ -1,4 +1,6 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Kan-O435}
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Kan-O435/Kan-O435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
