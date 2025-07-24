@@ -3,4 +3,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kan-O435&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-https://github-profile-trophy.vercel.app/Kan-O435=ryo-ma&column=3&margin-w=15&margin-h=15
+https://github-profile-trophy.vercel.app/Kan-O435=ryo-ma&theme=dark_lover
