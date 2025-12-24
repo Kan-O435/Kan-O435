@@ -6,6 +6,3 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kan-O435&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kan-O435&theme=vue-dark&layout=compact" />
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kan-O435&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
