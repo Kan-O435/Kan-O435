@@ -34,21 +34,18 @@ Web / フロントエンド / バックエンド
 
 ## GitHub Trophies
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Kan-O435&theme=onedark&no-frame=true&v=5"
-/>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Kan-O435&theme=onedark)
+
 
 ---
 
 ## GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Kan-O435&show_icons=true&theme=tokyonight&cache_seconds=86400&v=5"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kan-O435&show_icons=true&theme=radical)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kan-O435&layout=compact&theme=tokyonight&cache_seconds=86400&v=5"
-/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kan-O435&layout=compact&theme=radical)
+
 
 
 ## Cute Counter
