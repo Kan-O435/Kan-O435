@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi there, I'm Kan-O435  
+# こんにちは、Kan-O435です！
 ### ただの大学二年生
 
 <p>
