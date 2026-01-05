@@ -3,8 +3,7 @@
 <div align="center">
 
 # こんにちは、Kan-O435です！
-### ただの大学二年生
-### kaggle studying now
+### ただの大学二年
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Rounded+Mplus+1c&size=22&pause=1000&color=FF9AD5&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I+love+React+%26+Rails;Let's+build+cute+things+%F0%9F%92%95" />
