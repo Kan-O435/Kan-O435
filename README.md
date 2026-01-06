@@ -29,7 +29,6 @@ Web / フロントエンド / バックエンド
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 
-
 ---
 
 ## GitHub Trophies
