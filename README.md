@@ -36,7 +36,6 @@ Web / フロントエンド / バックエンド
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Kan-O435&theme=onedark)
 
-
 ---
 
 ## GitHub Stats
