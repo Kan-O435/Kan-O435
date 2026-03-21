@@ -1,1 +1,11 @@
-
+## Kan
+---
+- 名前：Kan
+- 年齢：20
+- 誕生日：2006/02/06
+- プログラミング言語・フレームワーク
+  - Ruby on Rails
+  - JS/TS(Next.js)
+- リンク
+  - GitHub：[Kan-O435](https://github.com/Kan-O435/Kan-O435/)
+  - X：[@kan_O435](https://x.com/kan_O435)
