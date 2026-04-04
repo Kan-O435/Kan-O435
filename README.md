@@ -4,8 +4,14 @@
 - 年齢：20
 - 誕生日：2006/02/06
 - プログラミング言語・フレームワーク
-  - Ruby on Rails
-  - JS/TS(Next.js)
+　- フロントエンド
+  　- Next.js / TypeScript
+    - API連携（REST）
+  - バックエンド
+    - Ruby on Rails（APIモード）
+    - 認証機能（トークンベース）
+  - インフラ・その他
+    - vercel・render(デプロイ)
 - リンク
   - GitHub：[Kan-O435](https://github.com/Kan-O435/Kan-O435/)
   - X：[@kan_O435](https://x.com/kan_O435)
