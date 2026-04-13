@@ -14,3 +14,4 @@
 - リンク
   - GitHub：[Kan-O435](https://github.com/Kan-O435/Kan-O435/)
   - X：[@kan_O435](https://x.com/kan_O435)
+  - AtCoder:[yamanobori](https://atcoder.jp/users/yamanobori)
